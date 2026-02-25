@@ -1,16 +1,48 @@
-# React + Vite
+# 🌦️ Weather Application (React + Vite)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern Weather Application built using **React** and **Vite** with a clean component-based architecture.  
+This project allows users to search and view weather information by date and by month, along with weather statistics.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+- 🌤️ Search weather data
+- 📅 View weather by specific date
+- 🗓️ View weather by month
+- 📊 Display weather statistics
+- ⚛️ Modular React component structure
+- 🎨 Clean and structured UI design
+- ⚡ Fast development setup using Vite
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Vite
+- JavaScript (ES6+)
+- CSS
+- Node.js & npm
+
+---
+
+## 🎯 Project Purpose
+
+This project was developed to:
+
+- Practice React component-based architecture  
+- Improve frontend structuring skills  
+- Work with modern React tooling (Vite)  
+- Build a structured and modular weather application
+
+  <img width="1535" height="805" alt="image" src="https://github.com/user-attachments/assets/5df95055-c0a7-4101-84c2-31fc1aed0f83" />
+  <img width="1530" height="507" alt="image" src="https://github.com/user-attachments/assets/c09e712b-f8e2-4a35-a760-f4385678a6bb" />
+  <img width="1530" height="436" alt="image" src="https://github.com/user-attachments/assets/e1ae1f09-0513-4f88-aae3-0958a72d44c4" />
+  <img width="1338" height="909" alt="image" src="https://github.com/user-attachments/assets/c1686c38-c4d0-440d-b881-eca0401a9288" />
+  <img width="1348" height="865" alt="image" src="https://github.com/user-attachments/assets/f275b669-107e-49a5-a81a-e83940bb30c6" />
+
+
+
+
+
